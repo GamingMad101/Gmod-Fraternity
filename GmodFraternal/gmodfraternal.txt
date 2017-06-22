@@ -1,0 +1,12 @@
+"gmodfraternal"
+{
+	"base"		"sandbox"
+	"title"		"Gmod Fraternal"
+	"maps"		"gmf_"
+	"menusystem"	"1"
+
+	"settings"
+	{
+	}
+
+}
